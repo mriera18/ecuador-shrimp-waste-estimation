@@ -1,3 +1,4 @@
+## INTRODUCTION
 This repository provides the historical shrimp export dataset from Ecuador and the R script used to estimate potential solid waste and wastewater generation and perform time-series analysis and forecasting.
 
 The repository accompanies the research study entitled:
