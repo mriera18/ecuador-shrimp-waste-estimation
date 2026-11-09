@@ -65,7 +65,7 @@ The script generates Excel files containing the monthly decomposition components
 
 The historical dataset and R script used in this study are publicly available in this repository:
 
-[INSERT GITHUB REPOSITORY URL]
+(https://github.com/mriera18/ecuador-shrimp-waste-estimation/blob/main/shrimp_export_data.xlsx)
 
 The repository provides the input data and computational code required to reproduce the time-series analysis and forecasting procedures.
 
